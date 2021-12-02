@@ -9,7 +9,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.8.9"
+    "mongoose": "^5.8.9",
+    "mongose": "0.0.2-security"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
